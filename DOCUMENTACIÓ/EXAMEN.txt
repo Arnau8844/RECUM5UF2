@@ -24,6 +24,10 @@
   132  git push -u origin main
   133  history
 
+###Ex3###
 
-
+  134  git add .
+  135  git commit -m "Exercici 3"
+  136  git push -u origin main
+  137  history
 
