@@ -1,0 +1,18 @@
+  112  mkdir RECUM5UF2
+  113  cd RECUM5UF2/
+  114  git remote add origin https://github.com/Arnau8844/RECUM5UF2.git
+  115  git add .
+  116  git init
+  117  git remote add origin https://github.com/Arnau8844/RECUM5UF2.git
+  118  git commit -m "first commit"
+  119  git add .
+  120  git push -u origin main
+  121  ls
+  122  git commit -m "first commit"
+  123  git branch -M main
+  124  git add .
+  125  git push -u origin main
+  126  git log
+  127  git log
+  128  git history
+  129  history
