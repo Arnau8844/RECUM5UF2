@@ -45,4 +45,12 @@
   144  git push -u origin main
   145  history
 
+###Ex6###
+
+  146  git branch projecte
+  147  git checkout projecte
+  148  git add .
+  149  git commit -m "Exercici 6"
+  150  git push -u origin projecte
+  151  history
 
