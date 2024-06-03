@@ -31,3 +31,10 @@
   136  git push -u origin main
   137  history
 
+###Ex4###
+
+  138  git add .
+  139  git commit -m "Exercici 4"
+  140  git push -u origin main
+  141  history
+
