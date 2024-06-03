@@ -16,3 +16,14 @@
   127  git log
   128  git history
   129  history
+
+###Ex2###
+
+  130  git add .
+  131  git commit -m "Exercici 2"
+  132  git push -u origin main
+  133  history
+
+
+
+
